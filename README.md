@@ -4,12 +4,5 @@ This is a Janelia-themed map for [Gather](https://gather.town).
 
 ![Map](final/Janelia.png)
 
-## Instructions
-
-Download the [Tiled Map Editor](https://www.mapeditor.org/) and open `tiled/Symposium.tmx` to edit the map. 
-
-To save:
-* export all layers to `final/Janelia.png` using *File / Export As Image*
-* turn off the Background layer and export to `final/JaneliaFG.png`
-* turn off the Foreground layer and export to `final/JaneliaBG.png`
+We are looking for creative Janelians to build out additional parts of Janelia, or improve the existing maps. [Learn more about contributing](CONTRIBUTING.md).
 
